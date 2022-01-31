@@ -1,0 +1,12 @@
+.header{
+    width: auto;
+    text-align:center;
+    background-color: rgb(12, 11, 11);
+    color: rgb(136, 30, 30);
+    padding: 7px;
+}
+
+.link{
+    background-color: rgb(167, 116, 116);
+    padding: 5px;
+}
