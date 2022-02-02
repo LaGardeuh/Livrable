@@ -1,3 +1,13 @@
+header{
+    font-size: x-large;
+    width: auto;
+    text-align:center;
+    background-color: rgb(12, 11, 11);
+    color: rgb(136, 30, 30);
+    padding: 7px;
+    box-sizing: content-box;
+}
+
 select {
     background-color:rgb(102, 21, 21, 0.699); 
     color:rgb(0, 0, 0);
@@ -30,4 +40,14 @@ p{
 }
 h2{
     margin: 0;
+}
+
+.fact{
+    margin: 1%;
+}
+
+.pic-entete{
+    float: left;
+    vertical-align: middle;
+    margin-top: auto;
 }
